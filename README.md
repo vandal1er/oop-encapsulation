@@ -75,29 +75,9 @@ The constructor should initialize:
 ---
 
 ## Starter Code (Optional)
+Check `SecureAccount.java` for the starter code for this class.
 
-```java
-public class SecureAccount {
-    private String accountNumber;
-    private String ownerName;
-    private double balance;
-    private String passkey;
-
-    // TODO: Constructor
-
-    // TODO: getAccountNumber(String key)
-
-    // TODO: setOwnerName(String key, String newName)
-
-    // TODO: changePasskey(String oldKey, String newKey)
-
-    // TODO: deposit(double amount)
-
-    // TODO: withdraw(double amount)
-
-    // TODO: getBalance()
-}
-```
+Check `Main.java` for the exact signatures of the class methods.
 
 ---
 
