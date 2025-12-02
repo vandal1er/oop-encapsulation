@@ -115,34 +115,4 @@ Write a main program that:
 
 ---
 
-## Sample Output (Example)
-
-```
-Trying to view account number with wrong key:
-INVALID PASSKEY
-
-Trying with correct key:
-2025-001
-
-Changing passkey...
-Passkey updated.
-
-Trying old key:
-INVALID PASSKEY
-
-Trying new key:
-2025-001
-```
-
----
-
-## Learning Questions
-
-* Why are all instance variables private?
-* Why must sensitive data (passkey) never be printed or returned directly?
-* How do getters and setters enforce safe access?
-* What security issues would occur if `balance` or `passkey` were public?
-
----
-
 ## End of Activity
